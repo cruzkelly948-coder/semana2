@@ -9,3 +9,4 @@ proyecto. También facilita el trabajo en equipo y la colaboración. En conclusi
 Git es una herramienta 
 clave para el desarrollo moderno.
 Corrección de autor: Cruz Kelly
+Revisión final: Cruz Kelly

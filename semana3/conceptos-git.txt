@@ -12,3 +12,4 @@ Push:
 Push es el comando que permite enviar los cambios del 
 repositorio local hacia un repositorio remoto como GitHub. 
 Sirve para guardar el trabajo en la nube.
+Revisión final: Cruz Kelly

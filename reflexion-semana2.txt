@@ -8,3 +8,4 @@ Con la terminal se evitan errores comunes al manejar archivos manualmente.
 Es una habilidad básica en el desarrollo de software.
 Aprender a usarla fortalece la autonomía del desarrollador.
 Corrección de autor: Cruz Kelly
+Revisión final: Cruz Kelly

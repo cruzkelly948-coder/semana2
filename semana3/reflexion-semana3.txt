@@ -8,3 +8,4 @@ cada cambio y cuándo lo hizo. Esto mejora la organización y la seguridad del
 proyecto. También facilita el trabajo en equipo y la colaboración. En conclusión, 
 Git es una herramienta 
 clave para el desarrollo moderno.
+Corrección de autor: Cruz Kelly
